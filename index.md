@@ -15,7 +15,7 @@
 </script>
 <h2 id="我是谁">我是谁？</h2>
 <p>一位初三学生，日常摆烂~<p>
-<p>Bilibili:1384867395<p>
+<p>Bilibili:<a href="https://space.bilibili.com/1384867395" target="_blank" rel="noopener noreferrer" title="Bilibili">1384867395</a><p>
 <h2 id="Mucic">听首歌</h2>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2155423468&auto=0&height=66"></iframe>
 <h2 id="我的世界">Minecraft专区</h2>
